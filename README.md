@@ -25,6 +25,6 @@ Usage:
 
 example:
 
-python3 spyder.py -d http://testphp.vulnweb.com -w 123.txt
+python3 spyder.py -d http://testphp.vulnweb.com -w wordlist.txt
 
 
